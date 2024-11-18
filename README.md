@@ -10,11 +10,11 @@ To understand if factors traditionally theorised to have correlations with infla
 
 
 For a detailed walkthrough, please view the source code in order from:
-1. [Data Extraction And Cleansing](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/DataExtractionAndCleansing.ipynb)
-2. [Data Visualisation](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/DataVisualization.ipynb)
-3. [Linear Regression](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/LinearRegression.ipynb)
-4. [K-Nearest Neighbours (KNN)](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/KNN.ipynb)
-5. [ARIMA](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/ARIMA.ipynb)
+1. [Data Extraction And Cleansing](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/1.DataExtractionAndCleansing.ipynb)
+2. [Data Visualisation](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/2.DataVisualization.ipynb)
+3. [Linear Regression](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/3.LinearRegression.ipynb)
+4. [K-Nearest Neighbours (KNN)](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/4.KNN.ipynb)
+5. [ARIMA](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/5.ARIMA.ipynb)
 
 
 #### Problem Definition
