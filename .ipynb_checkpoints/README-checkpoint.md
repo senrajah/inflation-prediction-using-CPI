@@ -15,6 +15,7 @@ For a detailed walkthrough, please view the source code in order from:
 3. [Linear Regression](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/3.LinearRegression.ipynb)
 4. [K-Nearest Neighbours (KNN)](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/4.KNN.ipynb)
 5. [ARIMA](https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/5.ARIMA.ipynb)
+6. [LSTM] (https://github.com/senrajah/inflation-prediction-using-CPI/blob/main/6.LSTM.ipynb)
 
 
 #### Problem Definition
@@ -26,6 +27,7 @@ To address the two areas we set out to explore, there are some important questio
 #### Conclusion
 Our best models to predict CPI:
 - ARIMA with 5 exogenous factors
+- Multivariate LSTM
 
 There is value in exploring factors not traditionally agreed upon in traditional economic literature for predicting inflation.
 
